@@ -1,14 +1,12 @@
-# Hi, I'm Jurina 👋
+# Hi, I'm Jurina
 
-Welcome to my GitHub profile!
+Welcome!
 
 ## About Me
 
-- 💻 Interested in software development and programming
-- 📷 Aviation and railway photographer
-- ✈️ Aviation enthusiast and VATSIM controller/pilot
-- 🚆 Railway enthusiast
-- 🎵 J-Pop listener
+- Software development
+- Photographer
+- Aviation enthusiast and Railway enthusiast
 
 ## Tech Stack
 
@@ -19,6 +17,7 @@ Welcome to my GitHub profile!
 ![Visual Basic](https://img.shields.io/badge/Visual_Basic-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -34,6 +33,10 @@ Welcome to my GitHub profile!
 ![GCC](https://img.shields.io/badge/GCC-A42E2B?style=flat&logo=gnu&logoColor=white)
 ![GDB](https://img.shields.io/badge/GDB-A42E2B?style=flat&logo=gnu&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![NuGet](https://img.shields.io/badge/NuGet-004880?style=flat&logo=nuget&logoColor=white)
 ![MySQL Connector/C++](https://img.shields.io/badge/MySQL_Connector%2FC%2B%2B-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
