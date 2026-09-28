@@ -1,14 +1,12 @@
-# Hi, I'm Jurina 👋
+# Hi, I'm Jurina
 
-Welcome to my GitHub profile!
+Welcome!
 
 ## About Me
 
-- 💻 Interested in software development and programming
-- 📷 Aviation and railway photographer
-- ✈️ Aviation enthusiast and VATSIM controller/pilot
-- 🚆 Railway enthusiast
-- 🎵 J-Pop listener
+- Software development
+- Photographer
+- Aviation enthusiast and Railway enthusiast
 
 ## Tech Stack
 
