@@ -6,7 +6,7 @@ Welcome!
 
 - Software development
 - Photographer
-- Aviation enthusiast and Railway enthusiast
+- Aviation and Railway enthusiast
 
 ## Tech Stack
 
@@ -74,5 +74,4 @@ Welcome!
 
 ## Find Me Online
 
-- 🌐 [Website](https://www.lpxlpx7.top)
-- 💻 [GitHub](https://github.com/lpxlpx7)
+- 🌐 [Website](https://www.jurina.org/)
