@@ -25,8 +25,6 @@ Welcome!
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-### Apple Development
-
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
 ![Foundation](https://img.shields.io/badge/Foundation-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![CocoaPods](https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white)
@@ -43,8 +41,11 @@ Welcome!
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Swift Package Manager](https://img.shields.io/badge/Swift_Package_Manager-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-
-### C# & .NET Development
+![Unreal Engine 4/5](https://img.shields.io/badge/Unreal_Engine_4%2F5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Assimp](https://img.shields.io/badge/Assimp-242938?style=for-the-badge&logo=github&logoColor=white)
+![Box2D](https://img.shields.io/badge/Box2D-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Bullet Physics](https://img.shields.io/badge/Bullet_Physics-F5A623?style=for-the-badge&logo=cplusplus&logoColor=black)
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -76,14 +77,6 @@ Welcome!
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
-
-### Game Engine Development
-
-![Unreal Engine 4/5](https://img.shields.io/badge/Unreal_Engine_4%2F5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Assimp](https://img.shields.io/badge/Assimp-242938?style=for-the-badge&logo=github&logoColor=white)
-![Box2D](https://img.shields.io/badge/Box2D-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Bullet Physics](https://img.shields.io/badge/Bullet_Physics-F5A623?style=for-the-badge&logo=cplusplus&logoColor=black)
 
 ### Linux
 
