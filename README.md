@@ -57,6 +57,14 @@ Welcome!
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 
+### GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=lpxlpx7&show_icons=true&theme=tokyonight&hide_border=true)
+
+### Top Languages
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lpxlpx7&layout=compact&theme=tokyonight&hide_border=true)
+
 ## Find Me Online
 
 - 🌐 [Website](https://www.jurina.org/)
